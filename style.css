@@ -45,28 +45,6 @@
 @import url(css/font-awesome.min.css);
 
 
-
-
-@media (max-width: 768px) {
-    .slider-contant {
-        margin-top: 10px;
-        text-align: center;
-    }
-    .carousel-caption {
-        padding: 10px;
-    }
-    h3 {
-        font-size: 24px;
-    }
-    p {
-        font-size: 16px;
-    }
-    .btn {
-        font-size: 18px;
-    }
-}
-
-
 /*------------------------------------------------------------------
     SKELETON
 -------------------------------------------------------------------*/
